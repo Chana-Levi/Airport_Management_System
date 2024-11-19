@@ -1,0 +1,7 @@
+
+Scaffold-DbContext 'Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\DB\Flights.mdf";Integrated Security=True;Connect Timeout=30' Microsoft.EntityFrameworkCore.SqlServer –Context FlightContext -OutputDir DalModels -NoOnConfiguring -Force
+
+
+
+
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={0}\DB\Flights.mdf;Integrated Security=True;Connect Timeout=30

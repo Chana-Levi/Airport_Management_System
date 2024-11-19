@@ -1,0 +1,257 @@
+D:\p\Flights\Flights\bin\Debug\net7.0\appsettings.Development.json
+D:\p\Flights\Flights\bin\Debug\net7.0\appsettings.json
+D:\p\Flights\Flights\bin\Debug\net7.0\Flights.exe
+D:\p\Flights\Flights\bin\Debug\net7.0\Flights.deps.json
+D:\p\Flights\Flights\bin\Debug\net7.0\Flights.runtimeconfig.json
+D:\p\Flights\Flights\bin\Debug\net7.0\Flights.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Flights.pdb
+D:\p\Flights\Flights\bin\Debug\net7.0\Azure.Core.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Azure.Identity.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Humanizer.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\System.CodeDom.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\System.Memory.Data.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\BL.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\DAL.dll
+D:\p\Flights\Flights\bin\Debug\net7.0\BL.pdb
+D:\p\Flights\Flights\bin\Debug\net7.0\DAL.pdb
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.csproj.AssemblyReference.cache
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.GeneratedMSBuildEditorConfig.editorconfig
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfoInputs.cache
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfo.cs
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.csproj.CoreCompileInputs.cache
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cs
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cache
+D:\p\Flights\Flights\obj\Debug\net7.0\staticwebassets.build.json
+D:\p\Flights\Flights\obj\Debug\net7.0\staticwebassets.development.json
+D:\p\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.Flights.Microsoft.AspNetCore.StaticWebAssets.props
+D:\p\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.build.Flights.props
+D:\p\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Flights.props
+D:\p\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Flights.props
+D:\p\Flights\Flights\obj\Debug\net7.0\staticwebassets.pack.json
+D:\p\Flights\Flights\obj\Debug\net7.0\scopedcss\bundle\Flights.styles.css
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.csproj.CopyComplete
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.dll
+D:\p\Flights\Flights\obj\Debug\net7.0\refint\Flights.dll
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.pdb
+D:\p\Flights\Flights\obj\Debug\net7.0\Flights.genruntimeconfig.cache
+D:\p\Flights\Flights\obj\Debug\net7.0\ref\Flights.dll
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.csproj.AssemblyReference.cache
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfoInputs.cache
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfo.cs
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.csproj.CoreCompileInputs.cache
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cs
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cache
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.dll
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\refint\Flights.dll
+H:\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.pdb
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.csproj.AssemblyReference.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfoInputs.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfo.cs
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.csproj.CoreCompileInputs.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.dll
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\refint\Flights.dll
+C:\Users\97258\Downloads\jm_vtbdhhiiBUiCnJL\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.csproj.AssemblyReference.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfoInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfo.cs
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.csproj.CoreCompileInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\refint\Flights.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\appsettings.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Flights.exe
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Flights.deps.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Flights.runtimeconfig.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Flights.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Flights.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Humanizer.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\BL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\DAL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\BL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\DAL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.Flights.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.build.Flights.props
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Flights.props
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Flights.props
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\scopedcss\bundle\Flights.styles.css
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.csproj.CopyComplete
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\Flights.genruntimeconfig.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\obj\Debug\net7.0\ref\Flights.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\Flights\Flights\bin\Debug\net7.0\DalServices\FlightsCrewService.cs
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\appsettings.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Flights.exe
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\DalServices\FlightsCrewService.cs
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Flights.deps.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Flights.runtimeconfig.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Flights.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Flights.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Humanizer.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\BL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\DAL.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\BL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\bin\Debug\net7.0\DAL.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.csproj.AssemblyReference.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfoInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.AssemblyInfo.cs
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.csproj.CoreCompileInputs.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.Flights.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.build.Flights.props
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Flights.props
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Flights.props
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\scopedcss\bundle\Flights.styles.css
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.csproj.CopyComplete
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\refint\Flights.dll
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.pdb
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\Flights.genruntimeconfig.cache
+C:\Users\97258\OneDrive\שולחן העבודה\פרויקט C#\C-_Project\Flights\Flights\obj\Debug\net7.0\ref\Flights.dll
